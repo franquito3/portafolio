@@ -54,6 +54,11 @@ $(window).on("load", function() {
         }), !1
     });
 });
-
+function cambiarImagen() {
+    if (window.innerWidth >= 450 && window.innerHeight >= 750) {
+      // Código para cambiar la imagen aquí
+    }
+  }
+  
 
 
